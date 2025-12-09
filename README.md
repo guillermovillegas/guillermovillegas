@@ -57,8 +57,8 @@ Full-stack engineer and product leader with 9+ years building AI systems, enterp
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **[Levee](https://levee.biz)** | Computer vision for hotel operations — 92%+ accuracy, 60% faster inspections | GKE · Vertex AI · Django · React Native |
-| **[SunrAI](https://app.sunrai.ai)** | Solar business platform with AI-powered proposals and roof analysis | Next.js · Supabase · LangChain · Google Solar API |
-| **[APACT](http://app.apact.ai)** | Enterprise OTC trading platform for energy commodities | Next.js 15 · Real-time · Full audit compliance |
+| **[SunrAI](https://www.sunrai.ai)** | Solar business platform with AI-powered proposals and roof analysis | Next.js · Supabase · LangChain · Google Solar API |
+| **[APACT](https://www.apact.ai)** | Enterprise OTC trading platform for energy commodities | Next.js 15 · Real-time · Full audit compliance |
 
 ---
 
