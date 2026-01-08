@@ -24,7 +24,7 @@ Building AI-powered operations intelligence for hospitality
 
 ### About
 
-Full-stack engineer and product leader with 9+ years building AI systems, enterprise platforms, and mobile applications. Currently leading technical development at Levee, where we're bringing computer vision and spatial intelligence to the hospitality industry.
+Full-stack engineer and product leader with 10+ years building AI systems, enterprise platforms, and mobile applications. Currently leading technical development at Levee, where we're bringing computer vision and spatial intelligence to the hospitality industry.
 
 **2025 Recognition:**
 - **Global Startup Pitch Winner** (North America) — Phocuswright Europe
@@ -56,11 +56,11 @@ Full-stack engineer and product leader with 9+ years building AI systems, enterp
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[Levee](https://levee.biz)** | Computer vision for hotel operations — 92%+ accuracy, 60% faster inspections | GKE · Vertex AI · Django · React Native |
-| **[SunrAI](https://www.sunrai.ai)** | Solar business platform with AI-powered proposals and roof analysis | Next.js · Supabase · LangChain · Google Solar API |
-| **[APACT](https://www.apact.ai)** | Enterprise OTC trading platform for energy commodities | Next.js 15 · Real-time · Full audit compliance |
-| **[Remo](https://github.com/guillermovillegas/remo)** | AI-native project management for trades — dynamic UI generation via NLP | Next.js 15 · Vercel AI SDK · Supabase |
-| **[SoCap](https://github.com/sunrai-ai/socap-portal)** | Solar contractor portal with M0-M3 milestone tracking & financial calculators | Next.js 15 · Stack Auth · Supabase |
+| **[Levee](https://levee.biz)** | Computer vision for hotel operations — 92%+ accuracy, 60% faster inspections | GKE · Vertex AI · Django · React Native · Next.js |
+| **[SunrAI](https://www.sunrai.ai)** | Solar business platform with AI-powered proposals and roof analysis | React 19 · Vite · Supabase · LangChain · Google Solar API |
+| **[APACT](https://www.apact.ai)** | Enterprise OTC trading platform for energy commodities | Next.js 15 · React 19 · Supabase · Zustand · Real-time |
+| **[Remo](https://remo-three.vercel.app)** | AI-native project management for trades — dynamic UI generation via NLP | Next.js 15 · Gemini AI · Vercel AI SDK · Supabase |
+| **[SoCap Solar](https://socapsolar.com)** | Multi-tenant SaaS for solar financing with milestone workflow & Figure API integration | Next.js 15 · Stack Auth · Supabase · Figure API |
 
 ---
 
