@@ -40,9 +40,11 @@ Full-stack engineer and product leader with 10+ years building AI systems, enter
 
 **AI/ML** · Vertex AI · OpenAI · Claude · LangChain · Gemini · Computer Vision · CrewAI
 
-**Languages** · TypeScript · Python · Rust · Next.js 15 · React 19 · Django · FastAPI
+**Languages** · TypeScript · Python · Rust · Solidity · Next.js 15 · React 19 · Django · FastAPI
 
 **Infrastructure** · GCP · Kubernetes · Terraform · Docker · GitHub Actions
+
+**Web3** · Solidity · Base L2 · IPFS · Token Economics
 
 **Data** · PostgreSQL · Redis · Elasticsearch · Supabase · Grafana · Elastic APM
 
@@ -57,9 +59,11 @@ Full-stack engineer and product leader with 10+ years building AI systems, enter
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **[Levee](https://levee.biz)** | Computer vision for hotel operations — 92%+ accuracy, 60% faster inspections | GKE · Vertex AI · Django · React Native · Next.js |
+| **Stealth Data Protocol** | Web3 data ownership platform — token economics, B2B marketplace, browser extension, differential privacy | Next.js 15 · Supabase · Solidity · Base L2 · IPFS |
 | **[SunrAI](https://www.sunrai.ai)** | Solar business platform with AI-powered proposals and roof analysis | React 19 · Vite · Supabase · LangChain · Google Solar API |
 | **[APACT](https://www.apact.ai)** | Enterprise OTC trading platform for energy commodities | Next.js 15 · React 19 · Supabase · Zustand · Real-time |
 | **[Remo](https://remo-three.vercel.app)** | AI-native project management for trades — dynamic UI generation via NLP | Next.js 15 · Gemini AI · Vercel AI SDK · Supabase |
+| **Screenshotter** | Automated screenshot capture across devices — YAML recipes, CLI + API, Puppeteer pipeline | TypeScript · Puppeteer · Hono · Next.js 16 · Supabase |
 | **[SoCap Solar](https://socapsolar.com)** | Multi-tenant SaaS for solar financing with milestone workflow & Figure API integration | Next.js 15 · Stack Auth · Supabase · Figure API |
 
 ---
