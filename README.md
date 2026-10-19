@@ -2,9 +2,11 @@
 
 # Guillermo Villegas
 
-**Forward Deployed Engineer & AI Product Builder**
+**CTO · Forward-Deployed Engineer · AI Product Builder**
 
-Co-Founder & CPO @ [Levee](https://levee.io) · Fractional CTO and sole engineer for six company platforms · Chicago
+*I sit with the people who have the problem, then ship the fix myself.*
+
+Co-founder @ [Levee](https://levee.io) · CTO across six company platforms · Chicago
 
 <br/>
 
@@ -25,7 +27,7 @@ I sit with founders and operators, find the workflow that is actually broken, an
 | | |
 |---|---|
 | **5,700+** | merged pull requests across 6 GitHub orgs (mostly private repos) |
-| **6** | company platforms where I am the only engineer |
+| **6** | company platforms I built end to end as primary engineer |
 | **744 / 1,792** | API routes / test files in the largest of them |
 
 ### Recognition (Levee, 2025)
@@ -42,16 +44,16 @@ I sit with founders and operators, find the workflow that is actually broken, an
 | Project | What it is | Stack |
 |---------|------------|-------|
 | **[Levee](https://levee.io)** | Vision and voice AI for hotel operations. Paid pilot with the world's largest hotel brand, now a customer. | Django · Rust · Next.js · Swift/ARKit · GKE + Flux |
-| **[SunrAI](https://www.sunrai.ai)** | Solar CRM and operations platform with an approval-gated, eval-tested AI assistant (47 write tools) | Next.js 16 · AlloyDB · PostgREST · Gemini / Vertex AI |
+| **[SunrAI](https://www.sunrai.ai)** | Solar CRM and operations platform with an approval-gated, eval-tested AI assistant | Next.js 16 · AlloyDB · PostgREST · Gemini / Vertex AI |
 | **[EliteRank](https://eliterank.co)** | Paid-voting competition marketplace | Next.js 16 · Supabase · Stripe Connect |
-| **[APACT](https://apact.ai)** | OTC trading for RINs, biofuels and carbon credits, with maker-checker compliance | Next.js · Supabase · public API + sandbox |
+| **[APACT](https://apact.ai)** | OTC trading for RINs, biofuels and carbon credits, with role-gated compliance approvals | Next.js · Supabase · public API + sandbox |
 | **[SoCap Solar](https://www.socapsolar.com)** | Solar financing portal and back office | Next.js · Stack Auth · Supabase · Figure |
 | **[Faineant](https://github.com/Faineant-INC/faineant)** | In-home beauty booking marketplace | Next.js · Expo · Supabase · Stripe |
 | **Priv Labs** | Privacy-first analytics protocol on Base (testnet) | Next.js · Solidity · Base L2 |
 
 ### How I build
 
-Spec-first and test-gated, with a multi-agent workflow: Claude Code, Codex and OpenCode run in isolated worktrees behind review gates, CI-enforced migration checksums and exact-SHA staged releases.
+Spec-first and test-gated, with a multi-agent workflow: Claude Code, Codex and OpenCode run in isolated worktrees behind review gates, CI-enforced migration checksums and staged releases.
 
 ### Stack
 
