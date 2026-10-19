@@ -2,15 +2,9 @@
 
 # Guillermo Villegas
 
-**Co-Founder & CPO @ Levee | Global Startup Pitch Winner 2025 | Hot 25 Travel Startups**
+**Forward Deployed Engineer & AI Product Builder**
 
-Building AI-powered operations intelligence for hospitality
-
-<br/>
-
-![Commits](https://img.shields.io/badge/5,200+_Commits-2025-blue?style=flat-square)
-![Lines](https://img.shields.io/badge/3.2M+_Lines-Written-green?style=flat-square)
-![Projects](https://img.shields.io/badge/130+_Projects-Shipped-purple?style=flat-square)
+Co-Founder & CPO @ [Levee](https://levee.io) · Fractional CTO and sole engineer for six company platforms · Chicago
 
 <br/>
 
@@ -22,49 +16,56 @@ Building AI-powered operations intelligence for hospitality
 
 ---
 
-### About
+### What I do
 
-Full-stack engineer and product leader with 10+ years building AI systems, enterprise platforms, and mobile applications. Currently leading technical development at Levee, where we're bringing computer vision and spatial intelligence to the hospitality industry.
+I sit with founders and operators, find the workflow that is actually broken, and ship the production fix myself: discovery, architecture, code, deployment and the customer conversation, with no handoffs. Ten years in product (Chamberlain, Axiom Law) before I started writing most of the code.
 
-**2025 Recognition:**
-- **Global Startup Pitch Winner** (North America) — Phocuswright Europe
-- **Hot 25 Travel Startups** — PhocusWire
-- **$25K AI Pitch Winner** (Judges' + People's Choice) — HITEC
-- Featured in *"10 AI Startups Changing How You Book, Fly, and Stay"*
+### Last 12 months
+
+| | |
+|---|---|
+| **5,700+** | merged pull requests across 6 GitHub orgs (mostly private repos) |
+| **6** | company platforms where I am the only engineer |
+| **744 / 1,792** | API routes / test files in the largest of them |
+
+### Recognition (Levee, 2025)
+
+- **Phocuswright Global Startup Pitch** — winner, North America
+- **HITEC E20X** — Judges' Choice and People's Choice, the first company to win both
+- **PhocusWire** — Hot 25 Travel Startups for 2025
+- **Skift IDEA Awards** — finalist, Visionary 2030
 
 ---
 
-### Tech Stack
+### Featured work
+
+| Project | What it is | Stack |
+|---------|------------|-------|
+| **[Levee](https://levee.io)** | Vision and voice AI for hotel operations. Paid pilot with the world's largest hotel brand, now a customer. | Django · Rust · Next.js · Swift/ARKit · GKE + Flux |
+| **[SunrAI](https://www.sunrai.ai)** | Solar CRM and operations platform with an approval-gated, eval-tested AI assistant (47 write tools) | Next.js 16 · AlloyDB · PostgREST · Gemini / Vertex AI |
+| **[EliteRank](https://eliterank.co)** | Paid-voting competition marketplace | Next.js 16 · Supabase · Stripe Connect |
+| **[APACT](https://apact.ai)** | OTC trading for RINs, biofuels and carbon credits, with maker-checker compliance | Next.js · Supabase · public API + sandbox |
+| **[SoCap Solar](https://www.socapsolar.com)** | Solar financing portal and back office | Next.js · Stack Auth · Supabase · Figure |
+| **[Faineant](https://github.com/Faineant-INC/faineant)** | In-home beauty booking marketplace | Next.js · Expo · Supabase · Stripe |
+| **Priv Labs** | Privacy-first analytics protocol on Base (testnet) | Next.js · Solidity · Base L2 |
+
+### How I build
+
+Spec-first and test-gated, with a multi-agent workflow: Claude Code, Codex and OpenCode run in isolated worktrees behind review gates, CI-enforced migration checksums and exact-SHA staged releases.
+
+### Stack
 
 <div align="center">
 
-**AI/ML** · Vertex AI · OpenAI · Claude · LangChain · Gemini · Computer Vision · CrewAI
+**AI** · Claude · Gemini · Vertex AI · Agents & MCP · Evals · pgvector · Computer Vision (YOLO, RT-DETR)
 
-**Languages** · TypeScript · Python · Rust · Solidity · Next.js 15 · React 19 · Django · FastAPI
+**Languages** · TypeScript · Python · SQL · Swift · Rust · Solidity
 
-**Infrastructure** · GCP · Kubernetes · Terraform · Docker · GitHub Actions
+**Platform** · Next.js · React · Django · FastAPI · Postgres / AlloyDB · Supabase · PostgREST · Stripe Connect · Expo
 
-**Web3** · Solidity · Base L2 · IPFS · Token Economics
-
-**Data** · PostgreSQL · Redis · Elasticsearch · Supabase · Grafana · Elastic APM
-
-**Mobile** · React Native · Expo
+**Infrastructure** · GCP (GKE, Cloud Run) · Kubernetes · Flux GitOps · Vercel · GitHub Actions · Docker
 
 </div>
-
----
-
-### Featured Work
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[Levee](https://levee.biz)** | Computer vision for hotel operations — 92%+ accuracy, 60% faster inspections | GKE · Vertex AI · Django · React Native · Next.js |
-| **Stealth Data Protocol** | Web3 data ownership platform — token economics, B2B marketplace, browser extension, differential privacy | Next.js 15 · Supabase · Solidity · Base L2 · IPFS |
-| **[SunrAI](https://www.sunrai.ai)** | Solar business platform with AI-powered proposals and roof analysis | React 19 · Vite · Supabase · LangChain · Google Solar API |
-| **[APACT](https://www.apact.ai)** | Enterprise OTC trading platform for energy commodities | Next.js 15 · React 19 · Supabase · Zustand · Real-time |
-| **[Remo](https://remo-three.vercel.app)** | AI-native project management for trades — dynamic UI generation via NLP | Next.js 15 · Gemini AI · Vercel AI SDK · Supabase |
-| **Screenshotter** | Automated screenshot capture across devices — YAML recipes, CLI + API, Puppeteer pipeline | TypeScript · Puppeteer · Hono · Next.js 16 · Supabase |
-| **[SoCap Solar](https://socapsolar.com)** | Multi-tenant SaaS for solar financing with milestone workflow & Figure API integration | Next.js 15 · Stack Auth · Supabase · Figure API |
 
 ---
 
