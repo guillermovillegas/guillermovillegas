@@ -6,7 +6,7 @@
 
 *I sit with the people who have the problem, then ship the fix myself.*
 
-Co-founder @ [Levee](https://levee.io) · CTO across six company platforms · Chicago
+Co-founder @ [Levee](https://levee.io) · CTO for [SunrAI](https://www.sunrai.ai), [EliteRank](https://eliterank.co) and [SoCap Solar](https://www.socapsolar.com) · Chicago
 
 <br/>
 
@@ -46,7 +46,6 @@ I sit with founders and operators, find the workflow that is actually broken, an
 | **[Levee](https://levee.io)** | Vision and voice AI for hotel operations. Paid pilot with the world's largest hotel brand, now a customer. | Django · Rust · Next.js · Swift/ARKit · GKE + Flux |
 | **[SunrAI](https://www.sunrai.ai)** | Solar CRM and operations platform with an approval-gated, eval-tested AI assistant | Next.js 16 · AlloyDB · PostgREST · Gemini / Vertex AI |
 | **[EliteRank](https://eliterank.co)** | Paid-voting competition marketplace | Next.js 16 · Supabase · Stripe Connect |
-| **[APACT](https://apact.ai)** | OTC trading for RINs, biofuels and carbon credits, with role-gated compliance approvals | Next.js · Supabase · public API + sandbox |
 | **[SoCap Solar](https://www.socapsolar.com)** | Solar financing portal and back office | Next.js · Stack Auth · Supabase · Figure |
 | **[Faineant](https://github.com/Faineant-INC/faineant)** | In-home beauty booking marketplace | Next.js · Expo · Supabase · Stripe |
 | **Priv Labs** | Privacy-first analytics protocol on Base (testnet) | Next.js · Solidity · Base L2 |
