@@ -6,7 +6,7 @@
 
 *I sit with the people who have the problem, then ship the fix myself.*
 
-Co-founder @ [Levee](https://levee.io) · CTO for [SunrAI](https://www.sunrai.ai), [EliteRank](https://eliterank.co) and [SoCap Solar](https://www.socapsolar.com) · Chicago
+Co-founder & CTO @ [Levee](https://levee.io) · also CTO for [SunrAI](https://www.sunrai.ai), [EliteRank](https://eliterank.co) and [SoCap Solar](https://www.socapsolar.com) · Chicago
 
 <br/>
 
@@ -26,6 +26,7 @@ I sit with founders and operators, find the workflow that is actually broken, an
 
 | | |
 |---|---|
+| **24,000** | GitHub contributions, including 17,600+ commits (7x 2025) |
 | **5,700+** | merged pull requests across 6 GitHub orgs (mostly private repos) |
 | **6** | company platforms I built end to end as primary engineer |
 | **744 / 1,792** | API routes / test files in the largest of them |
@@ -52,7 +53,7 @@ I sit with founders and operators, find the workflow that is actually broken, an
 
 ### How I build
 
-Spec-first and test-gated, with a multi-agent workflow: Claude Code, Codex and OpenCode run in isolated worktrees behind review gates, CI-enforced migration checksums and staged releases.
+Spec-first and test-gated, on a multi-agent harness I built (71K lines of Python, 3,600+ tests): Claude Code, Codex and OpenCode run in isolated worktree lanes, routed by role and capacity, behind task claims, review gates, CI-enforced migration checksums and staged releases. 3,000+ agent tasks coordinated across 30+ repos so far.
 
 ### Stack
 
