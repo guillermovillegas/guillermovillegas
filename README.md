@@ -6,7 +6,7 @@
 
 *I sit with the people who have the problem, then ship the fix myself.*
 
-Co-founder & CTO @ [Levee](https://levee.io) · Co-founder & CTO @ [SunrAI](https://www.sunrai.ai) (founded 2025) · CTO for [EliteRank](https://eliterank.co) · Chicago
+Co-founder & CTO @ [Levee](https://levee.io) · Co-founder & CTO @ [SunrAI](https://www.sunrai.ai) · CTO for [EliteRank](https://eliterank.co) · Chicago
 
 <br/>
 
@@ -45,7 +45,7 @@ I sit with founders and operators, find the workflow that is actually broken, an
 | Project | What it is | Stack |
 |---------|------------|-------|
 | **[Levee](https://levee.io)** | Vision and voice AI for hotel operations. Paid pilot with the world's largest hotel brand, now a customer. | Django · Rust · Next.js · Swift/ARKit · GKE + Flux |
-| **[SunrAI](https://www.sunrai.ai)** | Sunrai, Inc. (co-founded 2025). Solar CRM and operations platform with an approval-gated, eval-tested AI assistant | Next.js 16 · AlloyDB · PostgREST · Gemini / Vertex AI |
+| **[SunrAI](https://www.sunrai.ai)** | Sunrai, Inc. Solar CRM and operations platform with an approval-gated, eval-tested AI assistant | Next.js 16 · AlloyDB · PostgREST · Gemini / Vertex AI |
 | **[EliteRank](https://eliterank.co)** | Paid-voting competition marketplace | Next.js 16 · Supabase · Stripe Connect |
 | **[SoCap Solar](https://www.socapsolar.com)** | Client build: financing portal and back office for SoCap Solar, the financing arm of Source Solar. A separate company, unrelated to SunrAI | Next.js · Stack Auth · Supabase · Figure |
 | **[Faineant](https://github.com/Faineant-INC/faineant)** | In-home beauty booking marketplace | Next.js · Expo · Supabase · Stripe |
